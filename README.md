@@ -12,7 +12,7 @@ A Finder toolbar button that opens the folder you are looking at in
 Requires macOS and Herdr.
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/<owner>/open-in-herdr/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/shanash/open-in-herdr/main/install.sh | bash
 ```
 
 or, from a clone of this repository:
@@ -51,3 +51,8 @@ repository does not redistribute Herdr's artwork.
 ```
 
 Then hold Command (⌘) and drag the button off the Finder toolbar.
+
+## License
+
+[MIT](LICENSE). Herdr and its icon belong to their owners; this project is not
+affiliated with Herdr.
